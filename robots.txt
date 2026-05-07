@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bsmit43.github.io/docs-y61ww7/sitemap.xml
